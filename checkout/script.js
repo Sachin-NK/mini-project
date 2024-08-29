@@ -14,7 +14,7 @@ function validateForm(event) {
     }
 
     // Credit card number validation 
-    var creditCardRegex = /^\d{4}-\d{4}-\d{4}-\d{4}$/;
+    var creditCardRegex = /^\d{4}\d{4}\d{4}\d{4}$/;
     if (!creditCardRegex.test(creditCardNumber)) {
         alert('Please enter a valid credit card number (e.g., 1111-2222-3333-4444)');
         return false;
