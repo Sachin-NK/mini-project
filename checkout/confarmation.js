@@ -11,8 +11,8 @@ function showConfirmation() {
 
 // Function to trigger the transition after the progress animation
 function startTransition() {
-    // Execute the showConfirmation function after the progress animation (3s)
-    setTimeout(showConfirmation, 3000);
+    // Execute the showConfirmation function after the progress animation (2s)
+    setTimeout(showConfirmation, 2000);
 }
 
 // Trigger the transition when the page loads
