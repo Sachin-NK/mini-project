@@ -4,7 +4,7 @@
 /* Root-level CSS variables for color definitions */
 :root {
   --clr1: #1009c9;          
-  --clr2: rgba(195, 40, 16, 0.577); 
+  --clr2: #C3281093; 
   --black: #130f40;      
   --clr3: #e08787;          
 }
