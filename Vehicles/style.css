@@ -29,7 +29,7 @@ section {
 .btn {
   display: inline-block;
   margin-top: 1rem;
-  border-radius: .5rem;
+  border-radius: .6rem;
   background: var(--clr2);
   padding: .8rem 3rem;
   color: var(--black);
